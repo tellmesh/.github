@@ -19,7 +19,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [markpact-contracts](https://tellmesh.github.io/markpact-contracts/) | Markpact Contracts | Shell |
 | [markpact-pololu](https://tellmesh.github.io/markpact-pololu/) | Markpact Pololu | Go |
 | [nl2uri](https://tellmesh.github.io/nl2uri/) | Natural language to URI Tree planning and nl2a pipeline CLI | Python |
-| [nl2uricore](https://tellmesh.github.io/nl2uricore/) | Generate UriPack Markpact files from natural language prompts and URI prefixes. | Python |
+| [nl2uricontrol](https://tellmesh.github.io/nl2uricontrol/) | Generate UriPack Markpact files from natural language prompts and URI prefixes. | Python |
 | [resource-agent-factory](https://tellmesh.github.io/resource-agent-factory/) | Agent code generation from YAML contracts | Python |
 | [resource-agent-hypervisor](https://tellmesh.github.io/resource-agent-hypervisor/) | Meta-agent and runtime client for TellMesh hypervisor | Python |
 | [tellmesh](https://tellmesh.github.io/tellmesh/) | TellMesh — URI-first agent monorepo umbrella (uri3, nl2uri, hypervisor, agent factory) | HTML |
@@ -34,7 +34,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [uri3](https://tellmesh.github.io/uri3/) | URI discovery, validation, routing and graph utilities | Python |
 | [uribrowser-docker](https://tellmesh.github.io/uribrowser-docker/) | Portable browser:// URI example for urisys | Shell |
 | [urichat](https://tellmesh.github.io/urichat/) | Deprecated chat:// URI bridge — transcript to URI forward (use llm:// + message://) | Python |
-| [uricore](https://tellmesh.github.io/uricore/) | Thin URI-native control-plane core for software, services and devices. | HTML |
+| [uricontrol](https://tellmesh.github.io/uricontrol/) | Thin URI-native control-plane core for software, services and devices. | HTML |
 | [uricore-js](https://tellmesh.github.io/uricore-js/) | URI-native control core for browser and Node.js: URI -> manifest -> policy -> handler -> events. | JavaScript |
 | [urienv-docker](https://tellmesh.github.io/urienv-docker/) | Docker glue for env:// URI capability pack | Python |
 | [urigen](https://tellmesh.github.io/urigen/) | URI Ecosystem Generator - proposals, ecosystem artifacts, verification, and explain maps. | Python |
