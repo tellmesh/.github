@@ -1,7 +1,7 @@
 # tellmesh
 
 [![Organization](https://img.shields.io/badge/GitHub-tellmesh-black.svg)](https://github.com/tellmesh)
-[![Projects](https://img.shields.io/badge/projects-58-blue.svg)](https://github.com/tellmesh?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-60-blue.svg)](https://github.com/tellmesh?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 URI-driven mesh, KVM and remote access tooling.
@@ -37,10 +37,12 @@ URI-driven mesh, KVM and remote access tooling.
 | [urichat](https://tellmesh.github.io/urichat/) | Deprecated chat:// URI bridge — transcript to URI forward (use llm:// + message://) | Python |
 | [uricontrol](https://tellmesh.github.io/uricontrol/) | Thin URI-native control-plane core for software, services and devices. | HTML |
 | [uricontrol-js](https://tellmesh.github.io/uricontrol-js/) | URI-native control core for browser and Node.js: URI -> manifest -> policy -> handler -> events. | JavaScript |
+| [uridemo](https://tellmesh.github.io/uridemo/) | Uridemo | JavaScript |
 | [urienv](https://tellmesh.github.io/urienv/) | env:// URI capability pack. | Python |
 | [urienv-docker](https://tellmesh.github.io/urienv-docker/) | Docker glue for env:// URI capability pack | Python |
 | [urigen](https://tellmesh.github.io/urigen/) | URI Ecosystem Generator - proposals, ecosystem artifacts, verification, and explain maps. | Python |
 | [uriguard](https://tellmesh.github.io/uriguard/) | URI guard: operation limits, shell allowlist/denylist, risk gate, dry-run policy. | Python |
+| [urihandler](https://tellmesh.github.io/urihandler/) | Language-agnostic URI to handler adapter | Python |
 | [urihim](https://tellmesh.github.io/urihim/) | him:// URI capability pack for urisys-node | Python |
 | [uriimg2nl](https://tellmesh.github.io/uriimg2nl/) | img2nl:// URI capability pack — screen capture, UI targets, click (eyes for KVM-URI). | Python |
 | [urikv](https://tellmesh.github.io/urikv/) | kv:// and log:// URI packs — shared state and system introspection for urisys-node. | Python |
@@ -76,7 +78,7 @@ URI-driven mesh, KVM and remote access tooling.
 
 ## Statystyki
 
-- **Łącznie projektów**: 57
+- **Łącznie projektów**: 59
 - **Strony projektów**: `https://tellmesh.github.io/<repo>/`
 
 _Ostatnia aktualizacja: 2026-06-19_
