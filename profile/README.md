@@ -67,7 +67,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [uristt](https://tellmesh.github.io/uristt/) | stt:// and tts:// URI capability packs for urisys-node | Python |
 | [urisys](https://tellmesh.github.io/urisys/) | URI control system managers/controllers over separate uri capability packs. | Python |
 | [urisys-automation-lab](https://tellmesh.github.io/urisys-automation-lab/) | urisys automation lab — server, flows, voice/WebRTC packs (separate wheels) | Python |
-| [urisys-node](https://tellmesh.github.io/urisys-node/) | urisys-node slave: screen/kvm/him URI server components | HTML |
+| [urisys-node](https://tellmesh.github.io/urisys-node/) | urisys-node slave: screen/kvm/him URI server components | Python |
 | [urisysedge](https://tellmesh.github.io/urisysedge/) | ARCHIVED: edge runtime moved to tellmesh/uricore (uricontrol.edge). Use urirouter + uricore instead. | Python |
 | [uritransport](https://tellmesh.github.io/uritransport/) | URI transport adapters: HTTP/MQTT/SSH/WebSocket/NATS/Serial/USB delegation. | Python |
 | [urivql](https://tellmesh.github.io/urivql/) | urivql:// URI capability pack for urisys-node. | Python |
