@@ -42,7 +42,6 @@ URI-driven mesh, KVM and remote access tooling.
 | [urienv-docker](https://tellmesh.github.io/urienv-docker/) | Docker glue for env:// URI capability pack | Python |
 | [urigen](https://tellmesh.github.io/urigen/) | URI Ecosystem Generator - proposals, ecosystem artifacts, verification, and explain maps. | Python |
 | [uriguard](https://tellmesh.github.io/uriguard/) | URI guard: operation limits, shell allowlist/denylist, risk gate, dry-run policy. | Python |
-| [urihandler](https://tellmesh.github.io/urihandler/) | Language-agnostic URI to handler adapter | Python |
 | [urihim](https://tellmesh.github.io/urihim/) | him:// URI capability pack for urisys-node | Python |
 | [uriimg2nl](https://tellmesh.github.io/uriimg2nl/) | img2nl:// URI capability pack — screen capture, UI targets, click (eyes for KVM-URI). | Python |
 | [urikv](https://tellmesh.github.io/urikv/) | kv:// and log:// URI packs — shared state and system introspection for urisys-node. | Python |
@@ -58,6 +57,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Docker demo for RDP desktop automation (standalone URI packs) | Shell |
 | [urirdpedge](https://tellmesh.github.io/urirdpedge/) | HTTP edge runtime composing rdp/kvm/him/ocr/llm packs for RDP desktop automation | Python |
 | [uriresolver](https://tellmesh.github.io/uriresolver/) | URI resolver: YAML targets, urialiases, runtimeprofile overlay, target selection. | Python |
+| [urirun](https://tellmesh.github.io/urirun/) | Language-agnostic URI to handler adapter | HTML |
 | [uriscreen](https://tellmesh.github.io/uriscreen/) | screen:// URI capability pack — capture, frame, loop (mss/portal/vdisplay) | Python |
 | [urish](https://tellmesh.github.io/urish/) | Unified URI shell facade over uri3, uri2run, uri2ops, hypervisor, urigen | Python |
 | [urishell](https://tellmesh.github.io/urishell/) | shell:// URI capability pack | Python |
