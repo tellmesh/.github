@@ -1,7 +1,7 @@
 # tellmesh
 
 [![Organization](https://img.shields.io/badge/GitHub-tellmesh-black.svg)](https://github.com/tellmesh)
-[![Projects](https://img.shields.io/badge/projects-60-blue.svg)](https://github.com/tellmesh?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-59-blue.svg)](https://github.com/tellmesh?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 URI-driven mesh, KVM and remote access tooling.
@@ -57,7 +57,6 @@ URI-driven mesh, KVM and remote access tooling.
 | [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Docker demo for RDP desktop automation (standalone URI packs) | Shell |
 | [urirdpedge](https://tellmesh.github.io/urirdpedge/) | HTTP edge runtime composing rdp/kvm/him/ocr/llm packs for RDP desktop automation | Python |
 | [uriresolver](https://tellmesh.github.io/uriresolver/) | URI resolver: YAML targets, urialiases, runtimeprofile overlay, target selection. | Python |
-| [urirun](https://tellmesh.github.io/urirun/) | Language-agnostic URI to handler adapter | HTML |
 | [uriscreen](https://tellmesh.github.io/uriscreen/) | screen:// URI capability pack — capture, frame, loop (mss/portal/vdisplay) | Python |
 | [urish](https://tellmesh.github.io/urish/) | Unified URI shell facade over uri3, uri2run, uri2ops, hypervisor, urigen | Python |
 | [urishell](https://tellmesh.github.io/urishell/) | shell:// URI capability pack | Python |
@@ -78,7 +77,7 @@ URI-driven mesh, KVM and remote access tooling.
 
 ## Statystyki
 
-- **Łącznie projektów**: 59
+- **Łącznie projektów**: 58
 - **Strony projektów**: `https://tellmesh.github.io/<repo>/`
 
 _Ostatnia aktualizacja: 2026-06-20_
