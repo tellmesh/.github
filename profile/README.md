@@ -25,7 +25,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [tellmesh](https://tellmesh.github.io/tellmesh/) | TellMesh — URI-first agent monorepo umbrella (uri3, nl2uri, hypervisor, agent factory) | HTML |
 | [touri](https://tellmesh.github.io/touri/) | Generic URI-to-capability manifest runtime for reusable URI backends. | Python |
 | [uri-packs](https://tellmesh.github.io/uri-packs/) | Uri Packs | Python |
-| [uri2flow](https://tellmesh.github.io/uri2flow/) | Compact URI flow to workflow graph compiler for uri3/nl2uri pipelines | Python |
+| [uri2flow](https://tellmesh.github.io/uri2flow/) | Compact URI flow to workflow graph compiler for uri3/nl2uri pipelines | HTML |
 | [uri2ops](https://tellmesh.github.io/uri2ops/) | URI Operation Registry and Operator Runtime | Python |
 | [uri2pact](https://tellmesh.github.io/uri2pact/) | Markpact/pactown README import — fenced blocks to capability/flow YAML. | Python |
 | [uri2run](https://tellmesh.github.io/uri2run/) | URI runtime transport layer — python, shell, HTTP, flow, graph, uri2ops. | Python |
