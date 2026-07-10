@@ -54,7 +54,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [uriocr](https://tellmesh.github.io/uriocr/) | ocr:// URI capability pack for urisys-node | Python |
 | [urioffice](https://tellmesh.github.io/urioffice/) | urioffice:// URI capability pack for urisys-node. | Python |
 | [urirdp](https://tellmesh.github.io/urirdp/) | rdp:// URI capability pack for RDP/X11 desktop automation | Python |
-| [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Urirdp Docker | Shell |
+| [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Docker demo for RDP desktop automation (standalone URI packs) | Shell |
 | [urirdpedge](https://tellmesh.github.io/urirdpedge/) | HTTP edge runtime composing rdp/kvm/him/ocr/llm packs for RDP desktop automation | Python |
 | [uriresolver](https://tellmesh.github.io/uriresolver/) | URI resolver: YAML targets, urialiases, runtimeprofile overlay, target selection. | Python |
 | [uriscreen](https://tellmesh.github.io/uriscreen/) | screen:// URI capability pack — capture, frame, loop (mss/portal/vdisplay) | Python |
