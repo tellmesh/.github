@@ -15,7 +15,7 @@ URI-driven mesh, KVM and remote access tooling.
 | Projekt | Opis | Język |
 |---------|------|-------|
 | [hypervisor](https://tellmesh.github.io/hypervisor/) | Contract registry, domain packs, deployment registry and hypervisor control plane | Python |
-| [hypervisor-dashboard](https://tellmesh.github.io/hypervisor-dashboard/) | Hypervisor Dashboard | Python |
+| [hypervisor-dashboard](https://tellmesh.github.io/hypervisor-dashboard/) | System observer/renderer agent — URI dashboard for hypervisor autonomy | Python |
 | [markpact-contracts](https://tellmesh.github.io/markpact-contracts/) | Markpact Contracts | Shell |
 | [markpact-pololu](https://tellmesh.github.io/markpact-pololu/) | Markpact Pololu | Go |
 | [nl2uri](https://tellmesh.github.io/nl2uri/) | Natural language to URI Tree planning and nl2a pipeline CLI | Python |
