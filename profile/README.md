@@ -52,13 +52,13 @@ URI-driven mesh, KVM and remote access tooling.
 | [urimail](https://tellmesh.github.io/urimail/) | urimail:// URI capability pack for urisys-node. | Python |
 | [urimessage](https://tellmesh.github.io/urimessage/) | message:// URI capability pack for urisys-node | Python |
 | [uriocr](https://tellmesh.github.io/uriocr/) | ocr:// URI capability pack for urisys-node | Python |
-| [urioffice](https://tellmesh.github.io/urioffice/) | Urioffice | Python |
+| [urioffice](https://tellmesh.github.io/urioffice/) | urioffice:// URI capability pack for urisys-node. | Python |
 | [urirdp](https://tellmesh.github.io/urirdp/) | rdp:// URI capability pack for RDP/X11 desktop automation | Python |
 | [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Docker demo for RDP desktop automation (standalone URI packs) | Shell |
 | [urirdpedge](https://tellmesh.github.io/urirdpedge/) | HTTP edge runtime composing rdp/kvm/him/ocr/llm packs for RDP desktop automation | Python |
 | [uriresolver](https://tellmesh.github.io/uriresolver/) | URI resolver: YAML targets, urialiases, runtimeprofile overlay, target selection. | Python |
 | [uriscreen](https://tellmesh.github.io/uriscreen/) | screen:// URI capability pack — capture, frame, loop (mss/portal/vdisplay) | Python |
-| [urish](https://tellmesh.github.io/urish/) | Urish | Python |
+| [urish](https://tellmesh.github.io/urish/) | Unified URI shell facade over uri3, uri2run, uri2ops, hypervisor, urigen | Python |
 | [urishell](https://tellmesh.github.io/urishell/) | shell:// URI capability pack | Python |
 | [uristepper](https://tellmesh.github.io/uristepper/) | stepper:// URI capability pack | Python |
 | [uristepper-docker](https://tellmesh.github.io/uristepper-docker/) | Docker demo for stepper:// (device profile, flows, markpact bundle) | Python |
