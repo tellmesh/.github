@@ -25,7 +25,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [tellmesh](https://tellmesh.github.io/tellmesh/) | TellMesh — URI-first agent monorepo umbrella (uri3, nl2uri, hypervisor, agent factory) | HTML |
 | [touri](https://tellmesh.github.io/touri/) | Generic URI-to-capability manifest runtime for reusable URI backends. | Python |
 | [uri-packs](https://tellmesh.github.io/uri-packs/) | Uri Packs | Python |
-| [uri2flow](https://tellmesh.github.io/uri2flow/) | Uri2Flow | HTML |
+| [uri2flow](https://tellmesh.github.io/uri2flow/) | Compact URI flow to workflow graph compiler for uri3/nl2uri pipelines | HTML |
 | [uri2ops](https://tellmesh.github.io/uri2ops/) | URI Operation Registry and Operator Runtime | Python |
 | [uri2pact](https://tellmesh.github.io/uri2pact/) | Markpact/pactown README import — fenced blocks to capability/flow YAML. | Python |
 | [uri2run](https://tellmesh.github.io/uri2run/) | URI runtime transport layer — python, shell, HTTP, flow, graph, uri2ops. | Python |
@@ -50,7 +50,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [urikvmedge](https://tellmesh.github.io/urikvmedge/) | KVM docker bundle CLI (urisys-kvm) — composes urikvm/him/ocr/llm packs | Python |
 | [urillm](https://tellmesh.github.io/urillm/) | llm:// URI capability pack (vision/heuristic) for urisys-node | Python |
 | [urimail](https://tellmesh.github.io/urimail/) | urimail:// URI capability pack for urisys-node. | Python |
-| [urimessage](https://tellmesh.github.io/urimessage/) | Urimessage | Python |
+| [urimessage](https://tellmesh.github.io/urimessage/) | message:// URI capability pack for urisys-node | Python |
 | [uriocr](https://tellmesh.github.io/uriocr/) | ocr:// URI capability pack for urisys-node | Python |
 | [urioffice](https://tellmesh.github.io/urioffice/) | urioffice:// URI capability pack for urisys-node. | Python |
 | [urirdp](https://tellmesh.github.io/urirdp/) | rdp:// URI capability pack for RDP/X11 desktop automation | Python |
@@ -69,7 +69,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [urisys-node](https://tellmesh.github.io/urisys-node/) | urisys-node slave: screen/kvm/him URI server components | Python |
 | [urisysedge](https://tellmesh.github.io/urisysedge/) | ARCHIVED: edge runtime moved to tellmesh/uricore (uricontrol.edge). Use urirouter + uricore instead. | Python |
 | [uritransport](https://tellmesh.github.io/uritransport/) | URI transport adapters: HTTP/MQTT/SSH/WebSocket/NATS/Serial/USB delegation. | Python |
-| [urivql](https://tellmesh.github.io/urivql/) | urivql:// URI capability pack for urisys-node. | Python |
+| [urivql](https://tellmesh.github.io/urivql/) | Urivql | Python |
 | [uriwebrtc](https://tellmesh.github.io/uriwebrtc/) | webrtc:// URI capability pack for urisys-node | Python |
 | [www](https://tellmesh.github.io/www/) | Www | HTML |
 
