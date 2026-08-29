@@ -80,4 +80,4 @@ URI-driven mesh, KVM and remote access tooling.
 - **Łącznie projektów**: 58
 - **Strony projektów**: `https://tellmesh.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-08-28_
+_Ostatnia aktualizacja: 2026-08-29_
