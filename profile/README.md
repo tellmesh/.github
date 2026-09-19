@@ -1,7 +1,7 @@
 # tellmesh
 
 [![Organization](https://img.shields.io/badge/GitHub-tellmesh-black.svg)](https://github.com/tellmesh)
-[![Projects](https://img.shields.io/badge/projects-59-blue.svg)](https://github.com/tellmesh?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-60-blue.svg)](https://github.com/tellmesh?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 URI-driven mesh, KVM and remote access tooling.
@@ -34,7 +34,6 @@ URI-driven mesh, KVM and remote access tooling.
 | [uri3](https://tellmesh.github.io/uri3/) | URI discovery, validation, routing and graph utilities | Python |
 | [uribrowser](https://tellmesh.github.io/uribrowser/) | browser:// URI capability pack bundle | Python |
 | [uribrowser-docker](https://tellmesh.github.io/uribrowser-docker/) | Portable browser:// URI example for urisys | Shell |
-| [urichat](https://tellmesh.github.io/urichat/) | Deprecated chat:// URI bridge — transcript to URI forward (use llm:// + message://) | Python |
 | [uricontrol](https://tellmesh.github.io/uricontrol/) | Thin URI-native control-plane core for software, services and devices. | HTML |
 | [uricontrol-js](https://tellmesh.github.io/uricontrol-js/) | URI-native control core for browser and Node.js: URI -> manifest -> policy -> handler -> events. | JavaScript |
 | [uridemo](https://tellmesh.github.io/uridemo/) | Uridemo | JavaScript |
@@ -53,6 +52,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [urimessage](https://tellmesh.github.io/urimessage/) | message:// URI capability pack for urisys-node | Python |
 | [uriocr](https://tellmesh.github.io/uriocr/) | ocr:// URI capability pack for urisys-node | Python |
 | [urioffice](https://tellmesh.github.io/urioffice/) | urioffice:// URI capability pack for urisys-node. | Python |
+| [urioperators](https://tellmesh.github.io/urioperators/) | Shared LLM response parsing, planning and chat helpers extracted from urisys | Python |
 | [urirdp](https://tellmesh.github.io/urirdp/) | rdp:// URI capability pack for RDP/X11 desktop automation | Python |
 | [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Docker demo for RDP desktop automation (standalone URI packs) | Shell |
 | [urirdpedge](https://tellmesh.github.io/urirdpedge/) | HTTP edge runtime composing rdp/kvm/him/ocr/llm packs for RDP desktop automation | Python |
@@ -66,6 +66,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [uristt](https://tellmesh.github.io/uristt/) | stt:// and tts:// URI capability packs for urisys-node | Python |
 | [urisys](https://tellmesh.github.io/urisys/) | URI control system managers/controllers over separate uri capability packs. | Python |
 | [urisys-automation-lab](https://tellmesh.github.io/urisys-automation-lab/) | urisys automation lab — server, flows, voice/WebRTC packs (separate wheels) | Python |
+| [urisys-dev](https://tellmesh.github.io/urisys-dev/) | Markpact contract and pack generators extracted from urisys | Python |
 | [urisys-node](https://tellmesh.github.io/urisys-node/) | urisys-node slave: screen/kvm/him URI server components | Python |
 | [urisysedge](https://tellmesh.github.io/urisysedge/) | ARCHIVED: edge runtime moved to tellmesh/uricore (uricontrol.edge). Use urirouter + uricore instead. | Python |
 | [uritransport](https://tellmesh.github.io/uritransport/) | URI transport adapters: HTTP/MQTT/SSH/WebSocket/NATS/Serial/USB delegation. | Python |
@@ -77,7 +78,7 @@ URI-driven mesh, KVM and remote access tooling.
 
 ## Statystyki
 
-- **Łącznie projektów**: 58
+- **Łącznie projektów**: 59
 - **Strony projektów**: `https://tellmesh.github.io/<repo>/`
 
 _Ostatnia aktualizacja: 2026-09-19_
