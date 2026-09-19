@@ -52,7 +52,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [urimessage](https://tellmesh.github.io/urimessage/) | message:// URI capability pack for urisys-node | Python |
 | [uriocr](https://tellmesh.github.io/uriocr/) | ocr:// URI capability pack for urisys-node | Python |
 | [urioffice](https://tellmesh.github.io/urioffice/) | urioffice:// URI capability pack for urisys-node. | Python |
-| [urioperators](https://tellmesh.github.io/urioperators/) | Shared LLM response parsing, planning and chat helpers extracted from urisys | Python |
+| [urioperators](https://tellmesh.github.io/urioperators/) | Shared OCR/LLM/HIM operator helpers for urikvm and urirdp packs | Python |
 | [urirdp](https://tellmesh.github.io/urirdp/) | rdp:// URI capability pack for RDP/X11 desktop automation | Python |
 | [urirdp-docker](https://tellmesh.github.io/urirdp-docker/) | Docker demo for RDP desktop automation (standalone URI packs) | Shell |
 | [urirdpedge](https://tellmesh.github.io/urirdpedge/) | HTTP edge runtime composing rdp/kvm/him/ocr/llm packs for RDP desktop automation | Python |
@@ -66,7 +66,7 @@ URI-driven mesh, KVM and remote access tooling.
 | [uristt](https://tellmesh.github.io/uristt/) | stt:// and tts:// URI capability packs for urisys-node | Python |
 | [urisys](https://tellmesh.github.io/urisys/) | URI control system managers/controllers over separate uri capability packs. | Python |
 | [urisys-automation-lab](https://tellmesh.github.io/urisys-automation-lab/) | urisys automation lab — server, flows, voice/WebRTC packs (separate wheels) | Python |
-| [urisys-dev](https://tellmesh.github.io/urisys-dev/) | Markpact contract and pack generators extracted from urisys | Python |
+| [urisys-dev](https://tellmesh.github.io/urisys-dev/) | urisys development tooling — Markpact contract/pack generation from manifest.yaml | Python |
 | [urisys-node](https://tellmesh.github.io/urisys-node/) | urisys-node slave: screen/kvm/him URI server components | Python |
 | [urisysedge](https://tellmesh.github.io/urisysedge/) | ARCHIVED: edge runtime moved to tellmesh/uricore (uricontrol.edge). Use urirouter + uricore instead. | Python |
 | [uritransport](https://tellmesh.github.io/uritransport/) | URI transport adapters: HTTP/MQTT/SSH/WebSocket/NATS/Serial/USB delegation. | Python |
